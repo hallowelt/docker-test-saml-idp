@@ -17,6 +17,7 @@ The contained version of SimpleSAMLphp is 1.15.2.
 
 ## Supported Tags
 
+- `2.0.6` [(Dockerfile)](https://github.com/kristophjunge/docker-test-saml-idp/blob/2.0.6/Dockerfile)
 - `1.15` [(Dockerfile)](https://github.com/kristophjunge/docker-test-saml-idp/blob/1.15/Dockerfile)
 - `1.14` [(Dockerfile)](https://github.com/kristophjunge/docker-test-saml-idp/blob/1.14/Dockerfile)
 
